@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_inheritance\src\ex_inheritance\bin\Debug\netcoreapp2.2\ex_inheritance.deps.json
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_inheritance\src\ex_inheritance\bin\Debug\netcoreapp2.2\ex_inheritance.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_inheritance\src\ex_inheritance\bin\Debug\netcoreapp2.2\ex_inheritance.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_inheritance\src\ex_inheritance\bin\Debug\netcoreapp2.2\ex_inheritance.dll
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_inheritance\src\ex_inheritance\bin\Debug\netcoreapp2.2\ex_inheritance.pdb
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_inheritance\src\ex_inheritance\obj\Debug\netcoreapp2.2\ex_inheritance.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_inheritance\src\ex_inheritance\obj\Debug\netcoreapp2.2\ex_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_inheritance\src\ex_inheritance\obj\Debug\netcoreapp2.2\ex_inheritance.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_inheritance\src\ex_inheritance\obj\Debug\netcoreapp2.2\ex_inheritance.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_inheritance\src\ex_inheritance\obj\Debug\netcoreapp2.2\ex_inheritance.dll
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_inheritance\src\ex_inheritance\obj\Debug\netcoreapp2.2\ex_inheritance.pdb
