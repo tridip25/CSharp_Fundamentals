@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\nov_25\prog_that_illstrate_clas_obj\bin\Debug\netcoreapp2.2\prog_that_illstrate_clas_obj.deps.json
+C:\Users\Tridip\c#\my_tasks\nov_25\prog_that_illstrate_clas_obj\bin\Debug\netcoreapp2.2\prog_that_illstrate_clas_obj.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\nov_25\prog_that_illstrate_clas_obj\bin\Debug\netcoreapp2.2\prog_that_illstrate_clas_obj.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\nov_25\prog_that_illstrate_clas_obj\bin\Debug\netcoreapp2.2\prog_that_illstrate_clas_obj.dll
+C:\Users\Tridip\c#\my_tasks\nov_25\prog_that_illstrate_clas_obj\bin\Debug\netcoreapp2.2\prog_that_illstrate_clas_obj.pdb
+C:\Users\Tridip\c#\my_tasks\nov_25\prog_that_illstrate_clas_obj\obj\Debug\netcoreapp2.2\prog_that_illstrate_clas_obj.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\nov_25\prog_that_illstrate_clas_obj\obj\Debug\netcoreapp2.2\prog_that_illstrate_clas_obj.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_25\prog_that_illstrate_clas_obj\obj\Debug\netcoreapp2.2\prog_that_illstrate_clas_obj.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_25\prog_that_illstrate_clas_obj\obj\Debug\netcoreapp2.2\prog_that_illstrate_clas_obj.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\nov_25\prog_that_illstrate_clas_obj\obj\Debug\netcoreapp2.2\prog_that_illstrate_clas_obj.dll
+C:\Users\Tridip\c#\my_tasks\nov_25\prog_that_illstrate_clas_obj\obj\Debug\netcoreapp2.2\prog_that_illstrate_clas_obj.pdb

@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\nov_26\my_doubt_clr\bin\Debug\netcoreapp2.2\my_doubt_clr.deps.json
+C:\Users\Tridip\c#\my_tasks\nov_26\my_doubt_clr\bin\Debug\netcoreapp2.2\my_doubt_clr.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\nov_26\my_doubt_clr\bin\Debug\netcoreapp2.2\my_doubt_clr.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\nov_26\my_doubt_clr\bin\Debug\netcoreapp2.2\my_doubt_clr.dll
+C:\Users\Tridip\c#\my_tasks\nov_26\my_doubt_clr\bin\Debug\netcoreapp2.2\my_doubt_clr.pdb
+C:\Users\Tridip\c#\my_tasks\nov_26\my_doubt_clr\obj\Debug\netcoreapp2.2\my_doubt_clr.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\nov_26\my_doubt_clr\obj\Debug\netcoreapp2.2\my_doubt_clr.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_26\my_doubt_clr\obj\Debug\netcoreapp2.2\my_doubt_clr.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_26\my_doubt_clr\obj\Debug\netcoreapp2.2\my_doubt_clr.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\nov_26\my_doubt_clr\obj\Debug\netcoreapp2.2\my_doubt_clr.dll
+C:\Users\Tridip\c#\my_tasks\nov_26\my_doubt_clr\obj\Debug\netcoreapp2.2\my_doubt_clr.pdb
