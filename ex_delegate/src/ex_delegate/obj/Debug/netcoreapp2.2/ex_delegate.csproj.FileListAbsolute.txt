@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\dec_3\ex_delegate\src\ex_delegate\bin\Debug\netcoreapp2.2\ex_delegate.deps.json
+C:\Users\Tridip\c#\my_tasks\dec_3\ex_delegate\src\ex_delegate\bin\Debug\netcoreapp2.2\ex_delegate.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\dec_3\ex_delegate\src\ex_delegate\bin\Debug\netcoreapp2.2\ex_delegate.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\dec_3\ex_delegate\src\ex_delegate\bin\Debug\netcoreapp2.2\ex_delegate.dll
+C:\Users\Tridip\c#\my_tasks\dec_3\ex_delegate\src\ex_delegate\bin\Debug\netcoreapp2.2\ex_delegate.pdb
+C:\Users\Tridip\c#\my_tasks\dec_3\ex_delegate\src\ex_delegate\obj\Debug\netcoreapp2.2\ex_delegate.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\dec_3\ex_delegate\src\ex_delegate\obj\Debug\netcoreapp2.2\ex_delegate.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_3\ex_delegate\src\ex_delegate\obj\Debug\netcoreapp2.2\ex_delegate.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\dec_3\ex_delegate\src\ex_delegate\obj\Debug\netcoreapp2.2\ex_delegate.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\dec_3\ex_delegate\src\ex_delegate\obj\Debug\netcoreapp2.2\ex_delegate.dll
+C:\Users\Tridip\c#\my_tasks\dec_3\ex_delegate\src\ex_delegate\obj\Debug\netcoreapp2.2\ex_delegate.pdb

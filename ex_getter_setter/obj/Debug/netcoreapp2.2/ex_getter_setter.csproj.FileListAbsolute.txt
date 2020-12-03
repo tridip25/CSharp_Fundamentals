@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\nov_27\ex_getter_setter\bin\Debug\netcoreapp2.2\ex_getter_setter.deps.json
+C:\Users\Tridip\c#\my_tasks\nov_27\ex_getter_setter\bin\Debug\netcoreapp2.2\ex_getter_setter.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\nov_27\ex_getter_setter\bin\Debug\netcoreapp2.2\ex_getter_setter.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\nov_27\ex_getter_setter\bin\Debug\netcoreapp2.2\ex_getter_setter.dll
+C:\Users\Tridip\c#\my_tasks\nov_27\ex_getter_setter\bin\Debug\netcoreapp2.2\ex_getter_setter.pdb
+C:\Users\Tridip\c#\my_tasks\nov_27\ex_getter_setter\obj\Debug\netcoreapp2.2\ex_getter_setter.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\nov_27\ex_getter_setter\obj\Debug\netcoreapp2.2\ex_getter_setter.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_27\ex_getter_setter\obj\Debug\netcoreapp2.2\ex_getter_setter.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_27\ex_getter_setter\obj\Debug\netcoreapp2.2\ex_getter_setter.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\nov_27\ex_getter_setter\obj\Debug\netcoreapp2.2\ex_getter_setter.dll
+C:\Users\Tridip\c#\my_tasks\nov_27\ex_getter_setter\obj\Debug\netcoreapp2.2\ex_getter_setter.pdb

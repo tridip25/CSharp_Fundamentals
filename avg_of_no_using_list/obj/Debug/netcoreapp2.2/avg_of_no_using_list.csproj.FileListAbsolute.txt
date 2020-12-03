@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\nov_24\avg_of_no_using_list\obj\Debug\netcoreapp2.2\avg_of_no_using_list.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\nov_24\avg_of_no_using_list\obj\Debug\netcoreapp2.2\avg_of_no_using_list.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_24\avg_of_no_using_list\obj\Debug\netcoreapp2.2\avg_of_no_using_list.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_24\avg_of_no_using_list\obj\Debug\netcoreapp2.2\avg_of_no_using_list.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\nov_24\avg_of_no_using_list\bin\Debug\netcoreapp2.2\avg_of_no_using_list.deps.json
+C:\Users\Tridip\c#\my_tasks\nov_24\avg_of_no_using_list\bin\Debug\netcoreapp2.2\avg_of_no_using_list.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\nov_24\avg_of_no_using_list\bin\Debug\netcoreapp2.2\avg_of_no_using_list.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\nov_24\avg_of_no_using_list\bin\Debug\netcoreapp2.2\avg_of_no_using_list.dll
+C:\Users\Tridip\c#\my_tasks\nov_24\avg_of_no_using_list\bin\Debug\netcoreapp2.2\avg_of_no_using_list.pdb
+C:\Users\Tridip\c#\my_tasks\nov_24\avg_of_no_using_list\obj\Debug\netcoreapp2.2\avg_of_no_using_list.dll
+C:\Users\Tridip\c#\my_tasks\nov_24\avg_of_no_using_list\obj\Debug\netcoreapp2.2\avg_of_no_using_list.pdb
