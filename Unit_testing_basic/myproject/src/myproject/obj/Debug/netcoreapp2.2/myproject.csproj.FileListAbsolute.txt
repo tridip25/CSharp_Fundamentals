@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\nov_27\myproject\src\myproject\bin\Debug\netcoreapp2.2\myproject.deps.json
+C:\Users\Tridip\c#\my_tasks\nov_27\myproject\src\myproject\bin\Debug\netcoreapp2.2\myproject.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\nov_27\myproject\src\myproject\bin\Debug\netcoreapp2.2\myproject.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\nov_27\myproject\src\myproject\bin\Debug\netcoreapp2.2\myproject.dll
+C:\Users\Tridip\c#\my_tasks\nov_27\myproject\src\myproject\bin\Debug\netcoreapp2.2\myproject.pdb
+C:\Users\Tridip\c#\my_tasks\nov_27\myproject\src\myproject\obj\Debug\netcoreapp2.2\myproject.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\nov_27\myproject\src\myproject\obj\Debug\netcoreapp2.2\myproject.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_27\myproject\src\myproject\obj\Debug\netcoreapp2.2\myproject.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_27\myproject\src\myproject\obj\Debug\netcoreapp2.2\myproject.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\nov_27\myproject\src\myproject\obj\Debug\netcoreapp2.2\myproject.dll
+C:\Users\Tridip\c#\my_tasks\nov_27\myproject\src\myproject\obj\Debug\netcoreapp2.2\myproject.pdb
