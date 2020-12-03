@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_polymorphism\src\ex_polymorphism\bin\Debug\netcoreapp2.2\ex_polymorphism.deps.json
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_polymorphism\src\ex_polymorphism\bin\Debug\netcoreapp2.2\ex_polymorphism.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_polymorphism\src\ex_polymorphism\bin\Debug\netcoreapp2.2\ex_polymorphism.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_polymorphism\src\ex_polymorphism\bin\Debug\netcoreapp2.2\ex_polymorphism.dll
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_polymorphism\src\ex_polymorphism\bin\Debug\netcoreapp2.2\ex_polymorphism.pdb
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_polymorphism\src\ex_polymorphism\obj\Debug\netcoreapp2.2\ex_polymorphism.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_polymorphism\src\ex_polymorphism\obj\Debug\netcoreapp2.2\ex_polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_polymorphism\src\ex_polymorphism\obj\Debug\netcoreapp2.2\ex_polymorphism.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_polymorphism\src\ex_polymorphism\obj\Debug\netcoreapp2.2\ex_polymorphism.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_polymorphism\src\ex_polymorphism\obj\Debug\netcoreapp2.2\ex_polymorphism.dll
+C:\Users\Tridip\c#\my_tasks\nov_30\ex_polymorphism\src\ex_polymorphism\obj\Debug\netcoreapp2.2\ex_polymorphism.pdb

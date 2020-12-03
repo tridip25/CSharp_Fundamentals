@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\nov_24\highest_and_lowest_no_in_a_list\obj\Debug\netcoreapp2.2\highest_and_lowest_no_in_a_list.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\nov_24\highest_and_lowest_no_in_a_list\obj\Debug\netcoreapp2.2\highest_and_lowest_no_in_a_list.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_24\highest_and_lowest_no_in_a_list\obj\Debug\netcoreapp2.2\highest_and_lowest_no_in_a_list.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_24\highest_and_lowest_no_in_a_list\obj\Debug\netcoreapp2.2\highest_and_lowest_no_in_a_list.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\nov_24\highest_and_lowest_no_in_a_list\bin\Debug\netcoreapp2.2\highest_and_lowest_no_in_a_list.deps.json
+C:\Users\Tridip\c#\my_tasks\nov_24\highest_and_lowest_no_in_a_list\bin\Debug\netcoreapp2.2\highest_and_lowest_no_in_a_list.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\nov_24\highest_and_lowest_no_in_a_list\bin\Debug\netcoreapp2.2\highest_and_lowest_no_in_a_list.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\nov_24\highest_and_lowest_no_in_a_list\bin\Debug\netcoreapp2.2\highest_and_lowest_no_in_a_list.dll
+C:\Users\Tridip\c#\my_tasks\nov_24\highest_and_lowest_no_in_a_list\bin\Debug\netcoreapp2.2\highest_and_lowest_no_in_a_list.pdb
+C:\Users\Tridip\c#\my_tasks\nov_24\highest_and_lowest_no_in_a_list\obj\Debug\netcoreapp2.2\highest_and_lowest_no_in_a_list.dll
+C:\Users\Tridip\c#\my_tasks\nov_24\highest_and_lowest_no_in_a_list\obj\Debug\netcoreapp2.2\highest_and_lowest_no_in_a_list.pdb
