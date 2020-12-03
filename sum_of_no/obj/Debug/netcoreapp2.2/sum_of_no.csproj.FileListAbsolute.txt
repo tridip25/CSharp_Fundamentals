@@ -1,0 +1,11 @@
+C:\Users\Tridip\c#\my_tasks\nov_24\sum_of_no\bin\Debug\netcoreapp2.2\sum_of_no.deps.json
+C:\Users\Tridip\c#\my_tasks\nov_24\sum_of_no\bin\Debug\netcoreapp2.2\sum_of_no.runtimeconfig.json
+C:\Users\Tridip\c#\my_tasks\nov_24\sum_of_no\bin\Debug\netcoreapp2.2\sum_of_no.runtimeconfig.dev.json
+C:\Users\Tridip\c#\my_tasks\nov_24\sum_of_no\bin\Debug\netcoreapp2.2\sum_of_no.dll
+C:\Users\Tridip\c#\my_tasks\nov_24\sum_of_no\bin\Debug\netcoreapp2.2\sum_of_no.pdb
+C:\Users\Tridip\c#\my_tasks\nov_24\sum_of_no\obj\Debug\netcoreapp2.2\sum_of_no.csprojAssemblyReference.cache
+C:\Users\Tridip\c#\my_tasks\nov_24\sum_of_no\obj\Debug\netcoreapp2.2\sum_of_no.csproj.CoreCompileInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_24\sum_of_no\obj\Debug\netcoreapp2.2\sum_of_no.AssemblyInfoInputs.cache
+C:\Users\Tridip\c#\my_tasks\nov_24\sum_of_no\obj\Debug\netcoreapp2.2\sum_of_no.AssemblyInfo.cs
+C:\Users\Tridip\c#\my_tasks\nov_24\sum_of_no\obj\Debug\netcoreapp2.2\sum_of_no.dll
+C:\Users\Tridip\c#\my_tasks\nov_24\sum_of_no\obj\Debug\netcoreapp2.2\sum_of_no.pdb

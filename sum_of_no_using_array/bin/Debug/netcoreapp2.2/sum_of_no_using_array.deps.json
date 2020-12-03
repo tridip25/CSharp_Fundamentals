@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "sum_of_no_using_array/1.0.0": {
+        "runtime": {
+          "sum_of_no_using_array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sum_of_no_using_array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
